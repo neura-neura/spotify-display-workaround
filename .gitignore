@@ -1,0 +1,9 @@
+*.etl
+*.log
+*.bak
+*.backup
+*.zip
+SHA256SUMS.txt
+spotify-display-workaround.json
+WidevineCdm*
+dist/
